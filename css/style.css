@@ -1,0 +1,121 @@
+/* INDEX.HTML */
+.navbar-brand{
+    font-size: 36px;
+    margin-top: 14px;
+}
+.glyphicon{
+    font-size: 36px;
+}
+li a{
+    font-size: 36px;
+}
+#banner_image{
+    padding-top: 256px;
+    padding-bottom: 476px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg_1.jpg) no-repeat center center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: -15%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px
+
+}
+#banner_content h1{
+    font-size: 58px;
+}
+#banner_content p{
+    font-size: 22px;
+}
+#banner_content a{
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 24px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+footer{
+     padding: 10px 0;
+     background-color: #101010;
+     color:#9d9d9d;
+     bottom: 0;
+     width: 100%;
+
+}
+/* LOGIN.HTML */
+.row_style{
+    margin-top: 232px;
+}
+input{
+    font-size: 34px;
+    margin: 14px;
+    
+}
+.form-control{
+    height: 245px;
+    font-size: 21px;
+    padding: 6px 37px;
+}
+button{
+    margin: 14px;
+}
+.h4, h4 {
+    font-size: 31px;
+}
+.panel{
+    margin-bottom: 356px;
+}
+.panel-body p{
+    font-size: 20px;
+}
+.panel-footer{
+    font-size: 20px;
+}
+.col-xs-6{
+    width: 100%;
+    /* margin: 0px 285px; */
+}
+.panel-body{
+    padding: 31px;
+}
+.jumbotron{
+    margin-top: 79px;
+    margin-right: -44px;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    margin-top: 162px;
+}
+th{
+    font-size: 34px;
+
+}
+td{
+    font-size:34px ;
+}
+.table>tbody>tr>td{
+    padding: 57px;
+}
+.table{
+    margin-bottom: 537px;
+}
+tbody a{
+    text-decoration: none;
+    color: #f8f8f8;
+}
+tbody a:hover{
+    
+    color: #f8f8f8;
+}
